@@ -1,7 +1,9 @@
+# WARNING 1: SPAGHETTI CODE IS REAL IN THIS PROJECT
+
+# WARNING 2: PLEASE NOTE THE LICENSE FOR THIS REPOSITORY
+
 # easy-deploy
 A Windows Forms .net application for common IT desktop management functions.
-
-# WARNING: SPAGHETTI CODE IS REAL IN THIS PROJECT
 
 # See Website for Details
 Click there => [Easy Deploy](http://easydeploy.andyamaya.com)
